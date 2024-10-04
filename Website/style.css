@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:sans-serif;
+}
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5rem;
+    font-size: larger;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.sec1{
+    background-image: url(asset/web_development_is_important_176fa0618e-01.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10rem 0;
+    text-align: center;
+    color: rgb(63, 63, 63);
+
+}
+.sec1 h2{
+    font-size: 5rem;
+    margin: 10px 0;
+}
+.gb{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.sec1 p{
+    font-size: 2rem;
+}
+.gs{
+    padding: 3rem 0;
+}
+.gheading{
+    font-size: 55px;
+    text-align: center;
+}
+.ghp{
+    color: #7b7b7b;
+    text-align: center;
+}
+.amd{
+    display: flex;
+    align-items: center;
+    padding: 5rem;
+    justify-content: center;
+}
+.asd2 h2{
+    font-size: 33px;
+}
+.asd2{
+    width: 500px; margin-right: 20rem;
+}
+asd2 p{
+    color: #7b7b7b;
+    margin: 15px 0;
+}
+.gridc{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.gridsi{
+    padding: 50px;
+    text-align: center;
+}
+.icon{
+    font-size: 45px;
+}
+.wsi{
+    width: 250px;   
+}
+.gridsi p{
+    margin-top: 1rem;
+}
+.ch{
+    font-size: 55px;
+    text-align: center;
+}
+form input, textarea{
+    width: 300px;
+}
+form{
+    margin-left: 32.5rem;
+    margin-top: 20px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 3rem;
+}
+footer p{
+    padding-top: 15px;
+}
